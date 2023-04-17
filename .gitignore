@@ -3,3 +3,4 @@ Pipfile*
 roster.csv
 submissions
 .env
+.DS_Store
